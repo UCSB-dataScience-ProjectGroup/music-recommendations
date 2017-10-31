@@ -1,24 +1,17 @@
-# Team Name/Project Name
-Our project's goal is to ...
+# Music Recommendation Project
++ Our project's goal is to build a better music recommendation system through machine learning.
 
 
 ## General Plan
-+ Can be a short paragraph 
-+ Or list outlining the general steps necessary 
++ We will use data from KKBOX given by Kaggle, augmented by data from last.fm and the Million Song Dataset to accurately
+predict whether a user will listen to a track a second time within a month of the first listening instance. 
 
-## 7/27/2017
+## 10/23/2017
 Accomplished today:
-+ Set up everyone to work with Python on their machine
-+ Set up virtualenv
-+ Basic analysis
++ Gathered all the data
++ Started setup process for AWS
 
 Next steps:
-+ Make sure everyone ...
-    + Understand what each piece of code is doing!
-+ Continue reviewing ... concepts
-+ Develop tangible goals and timeline for this project
-
-## 8/3/2017
-
-Accomplished today:
-+ etc.
++ Clean data
++ Review machine learning concepts to determine models to test
++ Start training models
